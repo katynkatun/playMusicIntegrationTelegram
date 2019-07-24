@@ -1,4 +1,4 @@
-#!c:\users\yekho\codes\playmusic\.venv\scripts\python.exe
+#!c:\users\yekho\codes\playmusic\playmusicintegrationtelegram\.venv\scripts\python.exe
 # EASY-INSTALL-ENTRY-SCRIPT: 'future==0.17.1','console_scripts','pasteurize'
 __requires__ = 'future==0.17.1'
 import re

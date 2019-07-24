@@ -1,9 +1,9 @@
 from telethon import TelegramClient, sync, events
 from core import *
 
-#chat_id = "MaryBakhtina"
-chat_id = "katyn_katun"
-play_list_name = "test"
+chat_id = "MaryBakhtina"
+#chat_id = "katyn_katun"
+play_list_name = "Telegram music"
 min_message = 0
 
 client = TelegramClient('session_name', api_id, api_hash)

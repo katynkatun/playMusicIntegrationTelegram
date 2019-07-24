@@ -2,7 +2,7 @@ from core import *
 
 chat_id = "MaryBakhtina"
 #chat_id = "katyn_katun"
-play_list_name = "test"
+play_list_name = "Telegram music"
 min_message = 0
 
 
