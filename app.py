@@ -10,7 +10,7 @@ def add_songs_to_play_list():
     api_play_music = PlayMusic()
     messages = Messages(chat_id, min_message)
 
-    set_songs = messages.get_songs()
-    api_play_music.add_setsong_to_play_list(play_list_name, set_songs)
+    message_struct = messages.get_songs()
+    api_play_music.add_set_song_to_play_list(play_list_name, message_struct)
 
 add_songs_to_play_list()
